@@ -1,0 +1,9 @@
+{
+    "name": "css-draw-shape",
+    "version": "0.0.1",
+    "devDependencies": {
+        "gulp": "^3.8.0",
+        "gulp-less": "^1.3.0",
+        "browser-sync": "^1.7.0"
+    }
+}
